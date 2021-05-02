@@ -14,5 +14,5 @@ in the [Pro Git book](http://git-scm.com/book).
 
 If you would like to contribute, simply fork the repository, push
 your changes to a branch and send a pull request.
-
-Typo fixes, improvements to grammar or readability, it's all welcome.
+##hello
+打字错误的修复，语法或意图性的改进，都受到欢迎。
